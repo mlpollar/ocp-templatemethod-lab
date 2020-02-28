@@ -1,9 +1,9 @@
-package lab.example.afterrefactoring;
+package lab.assignment.afterrefactoring;
 
 public abstract class CoffeeTemplate {
 
     //template method, final so subclasses can't override
-    public void prepareMochaCoffee(){
+    public void prepareCoffee(){
         boilWater();
         brewEspresso();
         addIngredients();

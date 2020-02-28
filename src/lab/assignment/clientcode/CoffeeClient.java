@@ -1,6 +1,9 @@
-package lab.assignment.beforerefactoring.clientcode;
+package clientcode;
 
-import lab.assignment.beforerefactoring.CoffeeMaker;
+import lab.assignment.afterrefactoring.Americano;
+import lab.assignment.afterrefactoring.CoffeeTemplate;
+import lab.assignment.afterrefactoring.Mocha;
+import lab.assignment.afterrefactoring.Capuccino;
 
 public class CoffeeClient {
 

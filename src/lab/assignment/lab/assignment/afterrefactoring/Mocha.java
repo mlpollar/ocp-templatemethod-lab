@@ -1,4 +1,4 @@
-package lab.example.afterrefactoring;
+package lab.assignment.afterrefactoring;
 
 public class Mocha extends CoffeeTemplate{
 
